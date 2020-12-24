@@ -8,5 +8,5 @@ paperurl: 'https://openaccess.thecvf.com/content/ACCV2020/papers/Rodriguez_Under
 link: 'https://link.springer.com/conference/accv'
 code: ''
 database: 'https://bivl2ab.gitlab.io/research/2020-juan-colombiansld/lscd/pages/motion.html'
-citation: 'Rodriguez, Jefferson, et al. "Understanding Motion in Sign Language: A New Structured Translation Dataset." Proceedings of the Asian Conference on Computer Vision. 2020.'
+citation: 'Rodriguez, J., Chacon, J., Rangel, E., Guayacan, L., Hernandez, C., Hernandez, L., & Martinez, F. (2020). Understanding Motion in Sign Language: A New Structured Translation Dataset. In Proceedings of the Asian Conference on Computer Vision.'
 ---
