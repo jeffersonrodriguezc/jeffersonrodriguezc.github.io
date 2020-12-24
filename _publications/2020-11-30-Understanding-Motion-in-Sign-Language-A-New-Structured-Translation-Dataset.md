@@ -2,10 +2,12 @@
 title: "Understanding Motion in Sign Language: A New Structured Translation Dataset"
 collection: publications
 permalink: /publication/2020-11-30-Understanding-Motion-in-Sign-Language-A-New-Structured-Translation-Dataset
-date: 2020-11-30
-venue: 'Asian Conference on Computer Vision'
+date: 2020-11-30  
+abstract: 'Sign languages are the main mechanism of communication and interaction in the Deaf community. These languages are highly variable in communication with divergences between gloss representation, sign configuration, and multiple variants, among others, due to cultural and regional aspects. Current methods for automatic and continuous sign translation include robust and deep learning models that encode the visual signs representation. Despite the significant progress, the convergence of such models requires huge amounts of data to exploit sign representation, resulting in very complex models. This fact is associated to the highest variability but also to the shortage exploration of many language components that support communication. For instance, gesture motion and grammatical structure are fundamental components in communication, which can deal with visual and geometrical sign misinterpretations during video analysis. This work introduces a new Colombian sign language translation dataset (CoL-SLTD), that focuses on motion and structural information, and could be a significant resource to determine the contribution of several language components. Additionally, an encoder-decoder deep strategy is herein introduced to support automatic translation, including attention modules that capture short, long, and structural kinematic dependencies and their respective relationships with sign recognition. The evaluation in CoL-SLTD proves the relevance of the motion representation, allowing compact deep architectures to represent the translation. Also, the proposed strategy shows promising results in translation, achieving Bleu-4 scores of 35.81 and 4.65 in signer independent and unseen sentences tasks.'  
+venue: 'Asian Conference on Computer Vision, Kyoto, Japan, 2020'
 paperurl: 'https://openaccess.thecvf.com/content/ACCV2020/papers/Rodriguez_Understanding_Motion_in_Sign_Language_A_New_Structured_Translation_Dataset_ACCV_2020_paper.pdf'
 link: 'https://link.springer.com/conference/accv'
 gitlab: 'https://bivl2ab.gitlab.io/research/2020-juan-colombiansld/lscd/pages/motion.html'
+quote: 'https://scholar.googleusercontent.com/scholar.bib?q=info:piwuQHh5i2QJ:scholar.google.com/&output=citation&scisdr=CgU0SXh1EOGkgBo4mfg:AAGBfm0AAAAAX-Q9gfjusVe8f0EnkoDSrhKs_Yz9Blv7&scisig=AAGBfm0AAAAAX-Q9gaP3NY9PfsNU59b07cmfk95PhYc3&scisf=4&ct=citation&cd=-1&hl=es&scfhb=1'  
 citation: 'Rodriguez, J., Chacon, J., Rangel, E., Guayacan, L., Hernandez, C., Hernandez, L., & Martinez, F. (2020). Understanding Motion in Sign Language: A New Structured Translation Dataset. In Proceedings of the Asian Conference on Computer Vision.'
 ---
