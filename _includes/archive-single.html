@@ -55,6 +55,9 @@
       
       <!-- citation and icon code -->
       <p>
+      {% if post.abstract %}
+        {{ post.abstract }}
+      {% endif %}        
       {% if post.venue %}
         {{ post.venue }}
       {% endif %}
