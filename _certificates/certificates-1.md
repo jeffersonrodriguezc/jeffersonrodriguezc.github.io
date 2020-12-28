@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Deep Learning by deeplearning.ai on coursera"
+excerpt: "The Deep Learning Specialization is designed to prepare learners
+to participate in the development of cutting-edge AI technology,
+and to understand the capability, the challenges, and the
+consequences of the rise of deep learning. Through five
+interconnected courses, learners develop a profound knowledge
+of the hottest AI algorithms, mastering deep learning from its
+foundations (neural networks) to its industry applications
+(Computer Vision, Natural Language Processing, Speech
+Recognition, etc.).<br/><img src='/images/certificates-1.png'>"
 collection: certificates
+link: "https://www.coursera.org/account/accomplishments/specialization/Y2UEGQ57YLSP"
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
