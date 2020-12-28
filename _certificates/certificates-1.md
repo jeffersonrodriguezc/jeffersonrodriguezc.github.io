@@ -8,7 +8,7 @@ interconnected courses, learners develop a profound knowledge
 of the hottest AI algorithms, mastering deep learning from its
 foundations (neural networks) to its industry applications
 (Computer Vision, Natural Language Processing, Speech
-Recognition, etc.).<br/><img src='/images/certificates-1.png'>"
+Recognition, etc.).<br/><img src='/images/certficates-1.png'>"
 collection: certificates
 link: "https://www.coursera.org/account/accomplishments/specialization/Y2UEGQ57YLSP"
 ---
