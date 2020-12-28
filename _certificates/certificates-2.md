@@ -1,5 +1,6 @@
 ---
-title: "In this specialization, you got a grounding in what you need to get
+title: "TensorFlow Developer by deeplearning.ai on coursera"
+excerpt: "In this specialization, you got a grounding in what you need to get
 started with TensorFlow: In Practice. The goal was to help you
 take the next steps, such as going deeper into understanding
 Machine Learning and the practice of understanding loss
