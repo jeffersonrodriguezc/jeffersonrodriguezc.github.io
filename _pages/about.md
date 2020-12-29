@@ -15,8 +15,5 @@ from the [Escuela de Ingeniería de Sistemas e Informática](http://cormoran.uis
 
 My research focuses on computer vision topics applied to different applications using machine learning and deep learning models. However, I have worked in areas outside of computer vision by analyzing other types of information. In summary, the applications where I have a lot of experience are the following:
 
-<nbsp>
-
-{% include base_path %}
 
 
