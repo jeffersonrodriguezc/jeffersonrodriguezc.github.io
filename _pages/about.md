@@ -12,5 +12,10 @@ Welcome! I am a Master student in the [Biomedical imaging, vision and learning l
 from the [Escuela de Ingeniería de Sistemas e Informática](http://cormoran.uis.edu.co/eisi/) at
 [Universidad Industrial de Santander](https://www.uis.edu.co/webUIS/es/index.jsp). 
 
-My research falls into two main areas: understanding patterns of rebel behavior before, during, and after civil conflict, and developing new tools to improve the study of peace and conflict. One strand of research explores how the territories that ethnic groups inhabit shape rebel group formation and condition their relationship with the state. This interest in rebel behavior also informs projects on the evolution of government repression and rebel killings of civilians over the course of a conflict.
+My research focuses on computer vision topics applied to different applications using machine learning and deep learning models. However, I have worked in areas outside of computer vision by analyzing other types of information. In summary, the applications where I have a lot of experience are the following:
 
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
