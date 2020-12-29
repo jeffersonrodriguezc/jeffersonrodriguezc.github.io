@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the [Data-driven Analysis of Peacekeeping Project](https://dapp-lab.org)
-lab. I specialize in International Relations and Political Methodology. I earned
-my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Welcome! I am a Master student in the [Biomedical imaging, vision and learning laboratory](http://www.bivl2ab.uis.edu.co/) 
+from the [Escuela de Ingeniería de Sistemas e Informática](http://cormoran.uis.edu.co/eisi/) at
+[Universidad Industrial de Santander](https://www.uis.edu.co/webUIS/es/index.jsp). 
 
 My research falls into two main areas: understanding patterns of rebel behavior before, during, and after civil conflict, and developing new tools to improve the study of peace and conflict. One strand of research explores how the territories that ethnic groups inhabit shape rebel group formation and condition their relationship with the state. This interest in rebel behavior also informs projects on the evolution of government repression and rebel killings of civilians over the course of a conflict.
 
