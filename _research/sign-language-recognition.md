@@ -1,7 +1,7 @@
 ---
 title: "Sign Language Recognition"
-layout: default
-excerpt: "<img src='/images/slr.jpg' alt=''>"
+layout: single-portfolio
+excerpt: "<img src='/images/slr.png' alt=''>"
 collection: research
 order_number: 1
 ---
