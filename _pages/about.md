@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /
 title: "Academic profile"
 excerpt: "About me"
 author_profile: true
