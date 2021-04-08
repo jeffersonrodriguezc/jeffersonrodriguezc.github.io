@@ -8,6 +8,6 @@ venue: '<i>Asian Conference on Computer Vision, Kyoto, Japan, 2020</i>'
 paperurl: 'https://openaccess.thecvf.com/content/ACCV2020/papers/Rodriguez_Understanding_Motion_in_Sign_Language_A_New_Structured_Translation_Dataset_ACCV_2020_paper.pdf'
 link: 'https://link.springer.com/chapter/10.1007%2F978-3-030-69544-6_40'
 gitlab: 'https://bivl2ab.gitlab.io/research/2020-juan-colombiansld/lscd/pages/motion.html'
-quote: 'https://scholar.googleusercontent.com/scholar.bib?q=info:piwuQHh5i2QJ:scholar.google.com/&output=citation&scisdr=CgU0SXh1EOGkgBrFi3Q:AAGBfm0AAAAAX-TAk3RSoJVVa9VKK1VspA518-tIzO8V&scisig=AAGBfm0AAAAAX-TAk1mjstnrOgnakXkLBNd5PMbqbHau&scisf=4&ct=citation&cd=-1&hl=es'  
+quote: 'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=Understanding+Motion+in+Sign+Language%3A+A+New+Structured+Translation+Dataset&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3ApiwuQHh5i2QJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Des'  
 citation: 'Rodriguez, J., Chacon, J., Rangel, E., Guayacan, L., Hernandez, C., Hernandez, L., & Martinez, F. (2020). Understanding Motion in Sign Language: A New Structured Translation Dataset. In Proceedings of the Asian Conference on Computer Vision. https://doi.org/10.1007/978-3-030-69544-6_40'
 ---
