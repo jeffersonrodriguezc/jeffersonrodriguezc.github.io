@@ -7,5 +7,5 @@ abstract: 'Heart characterization is a challenging task due to the non-linear dy
 venue: '<i> XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA), Bucaramanga, Colombia, 2019</i>'
 link: 'https://ieeexplore.ieee.org/abstract/document/8730231' 
 paperurl: 'https://www.researchgate.net/profile/Jefferson_Rodriguez3/publication/333757657_Regional_Multiscale_Motion_Representation_for_Cardiac_Disease_Prediction/links/5d02817d92851c874c64c7a1/Regional-Multiscale-Motion-Representation-for-Cardiac-Disease-Prediction.pdf'
-quote: 'https://scholar.googleusercontent.com/scholar.bib?q=info:wNdNGylmb8wJ:scholar.google.com/&output=citation&scisdr=CgU0SXh1EOGkgBrGDzk:AAGBfm0AAAAAX-TDFzmOtffDc1BACBu3q83JEFOftY60&scisig=AAGBfm0AAAAAX-TDFztRxUp-39akxRrdQkTm-SJn5ptu&scisf=4&ct=citation&cd=-1&hl=es&scfhb=1'
+quote: 'https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=Regional+multiscale+motion+representation+for+cardiac+disease+prediction&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AwNdNGylmb8wJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Des'
 ---
