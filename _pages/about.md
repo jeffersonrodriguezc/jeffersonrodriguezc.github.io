@@ -22,9 +22,9 @@ My research focuses on computer vision topics applied to different applications 
 <details>
 <summary><strong>Sign language recognition publications</strong></summary>
 <ul>
-    <li>How important is motion in sign language translation?, IET Computer Vision, 2021.</li> 
-    <li>Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</li>  
-    <li>Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.</li>
+    <li><font size="2">How important is motion in sign language translation?, IET Computer Vision, 2021.</font></li> 
+    <li><font size="1">Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</font></li>  
+    <li><font size="4">Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.</font></li>
     <li>A kinematic gesture representation based on shape difference VLAD for sign language recognition, ICCVG, 2018.</li>
 </ul> 
 </details>
