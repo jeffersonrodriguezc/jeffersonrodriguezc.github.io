@@ -21,29 +21,22 @@ My research focuses on computer vision topics applied to different applications 
 ### Publications at a glance
 <details>
 <summary><strong>Sign language recognition publications</strong></summary>
-1. How important is motion in sign language translation?, IET Computer Vision, 2021.  
-2. Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.  
-3. Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.  
-4. A kinematic gesture representation based on shape difference VLAD for sign language recognition, ICCVG, 2018.  
+<ul>
+    <li>How important is motion in sign language translation?, IET Computer Vision, 2021.</li> 
+    <li>Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</li>  
+    <li>Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.</li>
+    <li>A kinematic gesture representation based on shape difference VLAD for sign language recognition, ICCVG, 2018.</li>
+</ul> 
 </details>
 
 <details>
 <summary><strong>Biomedical imaging publications</strong></summary>
   <ul>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
-    <li>Fourth item</li>
-  </ul> 
-  
-  - Kinematic motion representation in Cine-MRI to support cardiac disease classification, TCIV, 2022.
-  
-  - Deep learning representations to support COVID-19 diagnosis on CT-slices, Biomédica, 2021.  
-  
-  - A Covid-19 Patient Severity Stratification using a 3D Convolutional Strategy on CT-Scans, ISBI, 2021.  
-  
-  - Regional multiscale motion representation for cardiac disease prediction, STSIVA, 2019.    
-  
+    <li>Kinematic motion representation in Cine-MRI to support cardiac disease classification, TCIV, 2022.</li>
+    <li>Deep learning representations to support COVID-19 diagnosis on CT-slices, Biomédica, 2021. </li>
+    <li>A Covid-19 Patient Severity Stratification using a 3D Convolutional Strategy on CT-Scans, ISBI, 2021. </li>
+    <li>Regional multiscale motion representation for cardiac disease prediction, STSIVA, 2019.</li>
+  </ul>   
 </details>
 
 <details>
