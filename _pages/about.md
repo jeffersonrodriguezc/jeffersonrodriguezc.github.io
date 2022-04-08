@@ -32,10 +32,10 @@ My research focuses on computer vision topics applied to different applications 
 <details>
 <summary><strong>Biomedical imaging publications</strong></summary>
   <ul>
-    <li>Kinematic motion representation in Cine-MRI to support cardiac disease classification, TCIV, 2022.</li>
-    <li>Deep learning representations to support COVID-19 diagnosis on CT-slices, Biomédica, 2021. </li>
-    <li>A Covid-19 Patient Severity Stratification using a 3D Convolutional Strategy on CT-Scans, ISBI, 2021. </li>
-    <li>Regional multiscale motion representation for cardiac disease prediction, STSIVA, 2019.</li>
+    <li><font size="3">Kinematic motion representation in Cine-MRI to support cardiac disease classification, TCIV, 2022.</font></li>
+    <li><font size="3">Deep learning representations to support COVID-19 diagnosis on CT-slices, Biomédica, 2021.</font></li>
+    <li><font size="3">A Covid-19 Patient Severity Stratification using a 3D Convolutional Strategy on CT-Scans, ISBI, 2021.</font></li>
+    <li><font size="3">Regional multiscale motion representation for cardiac disease prediction, STSIVA, 2019.</font></li>
   </ul>   
 </details>
 
