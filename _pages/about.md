@@ -15,7 +15,7 @@ My research focuses on computer vision topics applied to different applications 
 
 |Sign language recognition | Biomedical imaging applications |Cybersecurity |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1600" alt="slr" src="/images/slr.png"> | <img width="1600" alt="biomedical" src="/images/biomedical.jpg">|<img width="1600" alt="cybersecurity" src="/images/series.jpg">|
+|<img width="1600" alt="slr" src="/images/slr.png"> | <img width="1600" alt="biomedical" src="/images/biomedical.jpg">|<img width="1600" alt="cybersecurity" src="/images/cybersecurity.jpg">|
 
 ---
 ### Publications at a glance
