@@ -8,14 +8,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Data Scientist in Appgate's R&D department, leveraging my analytical skills, programming abilities, and knowledge in Machine & Deep learning to discover insights for the company's cybersecurity products. Also I'm a professor in the data science master's program at EIG business school. My background includes a master's degree, research assistantships and published academic papers, demonstrating my research capabilities as well as a passion for advancing the field of computer science. I am motivated to continue pursuing my research interests through doctoral studies focused on tackling complex problems in computer science and developing innovative computational solutions.
 
-Welcome, my name is Jefferson Rodriguez and I am a systems and computer engineer from [Universidad Industrial de Santander](https://www.uis.edu.co/webUIS/es/index.jsp) with a master's degree in computer science.
+---
+### Research Interests
 
-My research focuses on computer vision topics applied to different applications using machine learning and deep learning models. However, I have worked in areas outside of computer vision by analyzing other types of information. In summary, the applications where I have a lot of experience are the following:
+My research interests center on advancing computer vision techniques and expanding their applications across disciplines. My experience includes the creation of vision-language models for sign language translation in video and also computer vision models for Biomedical challenges such as COVID-19 diagnosis or cardiac disease prediction. The full list of my research interests is:
 
-|Sign language recognition | Biomedical imaging applications |Cybersecurity |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1600" alt="slr" src="/images/slr.png"> | <img width="1600" alt="biomedical" src="/images/biomedical.jpg">|<img width="1600" alt="cybersecurity" src="/images/cybersecurity.jpg">|
+<ul>
+    <li> Vision-language domain.
+    <li> Biomedical applications.
+    <li> Graph Representation Learning, Graph Neural Networks.
+</ul>
 
 ---
 ### Publications at a glance
