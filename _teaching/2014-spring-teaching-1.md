@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced data visualization"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "EIG Business School & UIDE"
+date: 2023-10-01
+location: "Remote, Spain & Ecuador"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Advanced data visualization course in the master's degree in data science at EIG Business School and the Universidad Internacional de Ecuador UIDE.
