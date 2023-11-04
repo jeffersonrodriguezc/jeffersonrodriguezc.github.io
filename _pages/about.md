@@ -18,7 +18,7 @@ My research interests center on advancing computer vision techniques and expandi
 <ul>
     <li> Vision-language domain.</li>
     <li> Biomedical applications.</li>
-    <li> Graph Representation Learning, Graph Neural Networks.</li>
+    <li> Graph Representation Learning.</li>
 </ul>
 
 ---
