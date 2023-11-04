@@ -16,11 +16,10 @@ I am currently a Data Scientist in Appgate's R&D department, leveraging my analy
 My research interests center on advancing computer vision techniques and expanding their applications across disciplines. My experience includes the creation of vision-language models for sign language translation in video and also computer vision models for Biomedical challenges such as COVID-19 diagnosis or cardiac disease prediction. The full list of my research interests is:
 
 <ul>
-    <li> Vision-language domain.
-    <li> Biomedical applications.
-    <li> Graph Representation Learning, Graph Neural Networks.
+    <li> Vision-language domain.</li>
+    <li> Biomedical applications.</li>
+    <li> Graph Representation Learning, Graph Neural Networks.</li>
 </ul>
-
 
 ---
 ### Publications at a glance
