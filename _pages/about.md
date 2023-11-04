@@ -24,7 +24,7 @@ My research interests center on advancing computer vision techniques and expandi
 ---
 ### Publications at a glance
 <details>
-<summary><strong>Sign language recognition publications</strong></summary>
+<summary><strong>Vision-language publications: Sign language recognition </strong></summary>
 <ul>
     <li><font size="3">How important is motion in sign language translation?, IET Computer Vision, 2021.</font></li> 
     <li><font size="3">Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</font></li>  
@@ -45,5 +45,7 @@ My research interests center on advancing computer vision techniques and expandi
 
 <details>
 <summary><strong>Cybersecurity publications</strong></summary>
-In progress  
+<ul>
+  <li><font size="3">Phishing website detection using deep learning, In progress.</font></li>
+</ul> 
 </details>
