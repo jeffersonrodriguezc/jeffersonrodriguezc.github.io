@@ -2,7 +2,7 @@
 title: "Advanced data visualization"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-october-teaching-1
 venue: "EIG Business School & UIDE"
 date: 2023-10-01
 location: "Remote, Spain & Ecuador"
