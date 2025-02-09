@@ -8,28 +8,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Data Scientist in Appgate's R&D department, leveraging my analytical skills, programming abilities, and knowledge in Machine & Deep learning to discover insights for the company's cybersecurity products. Also I'm a professor in the data science master's program at EIG business school. My background includes a master's degree, research assistantships and published academic papers, demonstrating my research capabilities as well as a passion for advancing the field of computer science. I am motivated to continue pursuing my research interests through doctoral studies focused on tackling complex problems in computer science and developing innovative computational solutions.
+Hello, I am **Jefferson Rodríguez**, a Ph.D. student at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. 
+I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
 
 ---
 ### Research Interests
 
-My research interests center on advancing computer vision techniques and expanding their applications across disciplines. My experience includes the creation of vision-language models for sign language translation in video and also computer vision models for Biomedical challenges such as COVID-19 diagnosis or cardiac disease prediction. The full list of my research interests is:
+My primary research interests include:
+- **Biometrics and Digital Security:** Developing secure, resilient authentication/verification systems using state-of-the-art techniques based on biometric data.
+- **Deep Learning and Image Processing:** Applying neural networks and advanced algorithms to extract and analyze biometric features effectively.
+- **Watermarking and Steganography:** Innovating methods for embedding and concealing information within facial images to enhance data integrity and security.
+- **Fraud Detection Systems:** Designing and implementing robust systems for detecting and preventing fraudulent activities within digital environments.
+- **Model Explainability:** Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.
 
-<ul>
-    <li> Vision-language domain.</li>
-    <li> Biomedical applications.</li>
-    <li> Graph Representation Learning.</li>
-</ul>
+---
+## Vision and Future Directions
+
+I am committed to advancing the fields of Cibersecurity & MLSec specially in biometric security through rigorous research and interdisciplinary collaboration. My ambition is to contribute to the development of robust authentication/verification systems capable of addressing emerging challenges in digital security. I strive for academic excellence and the practical application of research findings to create solutions that are both innovative and impactful.
+
+I invite you to explore my research projects and publications, and welcome opportunities for collaboration on topics related to deep learning, biometrics, and cybersecurity.
 
 ---
 ### Publications at a glance
+
 <details>
-<summary><strong>Vision-language publications: Sign language recognition </strong></summary>
+<summary><strong>Cybersecurity publications</strong></summary>
 <ul>
-    <li><font size="3">How important is motion in sign language translation?, IET Computer Vision, 2021.</font></li> 
-    <li><font size="3">Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</font></li>  
-    <li><font size="3">Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.</font></li>
-    <li><font size="3">A kinematic gesture representation based on shape difference VLAD for sign language recognition, ICCVG, 2018.</font></li>
+  <li><font size="3">Currently working on Steganography & Watermarking ... </font></li>
+  <li><font size="3">Currently working on Behavioral biometrics ... </font></li>
 </ul> 
 </details>
 
@@ -44,8 +50,11 @@ My research interests center on advancing computer vision techniques and expandi
 </details>
 
 <details>
-<summary><strong>Cybersecurity publications</strong></summary>
+<summary><strong>Vision-language publications: Sign language recognition </strong></summary>
 <ul>
-  <li><font size="3">Phishing website detection using deep learning, In progress.</font></li>
+    <li><font size="3">How important is motion in sign language translation?, IET Computer Vision, 2021.</font></li> 
+    <li><font size="3">Understanding Motion in Sign Language: A New Structured Translation Dataset, ACCV, 2020.</font></li>  
+    <li><font size="3">Towards on-line sign language recognition using cumulative SD-VLAD descriptors, CCC, 2018.</font></li>
+    <li><font size="3">A kinematic gesture representation based on shape difference VLAD for sign language recognition, ICCVG, 2018.</font></li>
 </ul> 
 </details>
