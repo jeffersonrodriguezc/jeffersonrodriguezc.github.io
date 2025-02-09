@@ -22,7 +22,7 @@ My primary research interests include:
 - **Model Explainability:** Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.
 
 ---
-## Vision and Future Directions
+### Vision and Future Directions
 
 I am committed to advancing the fields of Cibersecurity & MLSec specially in biometric security through rigorous research and interdisciplinary collaboration. My ambition is to contribute to the development of robust authentication/verification systems capable of addressing emerging challenges in digital security. I strive for academic excellence and the practical application of research findings to create solutions that are both innovative and impactful.
 
