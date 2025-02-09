@@ -8,8 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am **Jefferson Rodríguez**, a Ph.D. student at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. 
-I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
+Hello, I am **Jefferson Rodríguez**, a Ph.D. student in Electronic and Computer Engineering at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
 
 ---
 
