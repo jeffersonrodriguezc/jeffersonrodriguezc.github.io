@@ -11,7 +11,6 @@ redirect_from:
 Hello, I am **Jefferson Rodríguez**, a Ph.D. student in Electronic and Computer Engineering at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
 
 ---
-
 ### Research Interests
 
 My primary research interests include:
@@ -22,11 +21,35 @@ My primary research interests include:
 - **Model Explainability:** Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.
 
 ---
-### Vision and Future Directions
+### Academic and Professional Background
 
+<details>
+<summary><strong>Doctoral Research in Biometrics</strong></summary>
+I am currently engaged in doctoral research that focuses on leveraging advanced deep learning models to enhance biometric security. My work involves developing innovative watermarking and steganographic techniques for facial image authentication/verification, addressing critical challenges in digital fraud prevention and secure identity verification.
+</details>
+
+<details>
+<summary><strong>Industry Experience in Cybersecurity</strong></summary>
+My tenure at Appgate provided me with invaluable, hands-on experience in the cybersecurity industry. During my time there, I worked on the development of cutting-edge products for fraud detection, biometric authentication, and device recognition. This role not only refined my technical and analytical skills but also offered me a unique perspective on real-world security challenges. It was this experience that inspired and motivated me to further pursue advanced research in cybersecurity, ensuring that my academic work remains deeply connected to industry needs.
+
+</details>
+
+<details>
+<summary><strong>Interdisciplinary Expertise in Computer Vision</strong></summary>
+My academic journey began with an undergraduate focus on video-based sign language recognition, marking my initial foray into computer vision. During my master’s studies, I advanced my expertise by developing methods to translate sign language from video to text using advanced deep learning techniques and vision-language models. Concurrently, I participated in biomedical projects—such as cardiac disease diagnosis and COVID-19 detection from medical images—that sharpened my skills in visual data analysis and pattern recognition.
+
+This diverse academic background has endowed me with a robust and transversal expertise in computer vision, which I now leverage to address complex challenges in cybersecurity and biometric systems. Moreover, my involvement in interdisciplinary projects integrating data analytics, machine learning, and image processing has enabled me to bridge theoretical research with real-world applications through an innovative perspective.
+
+</details>
+
+
+<details>
+<summary><strong>Vision and Future Directions</strong></summary>
 I am committed to advancing the fields of Cibersecurity & MLSec specially in biometric security through rigorous research and interdisciplinary collaboration. My ambition is to contribute to the development of robust authentication/verification systems capable of addressing emerging challenges in digital security. I strive for academic excellence and the practical application of research findings to create solutions that are both innovative and impactful.
 
 I invite you to explore my research projects and publications, and welcome opportunities for collaboration on topics related to deep learning, biometrics, and cybersecurity.
+
+</details>
 
 ---
 ### Publications at a glance
