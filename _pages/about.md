@@ -15,13 +15,6 @@ I am currently engaged in an innovative doctoral project that investigates the i
 
 {% toc %}
 
-
----
-layout: page
-title: About
-permalink: /about/
----
-
 <div class="page-content">
   <!-- Contenido Principal -->
   <div class="main-content">
