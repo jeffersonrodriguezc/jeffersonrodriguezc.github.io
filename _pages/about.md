@@ -12,6 +12,53 @@ Hello, I am **Jefferson Rodríguez**, a Ph.D. student at the PRA Lab, University
 I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
 
 ---
+
+{% toc %}
+
+
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<div class="page-content">
+  <!-- Contenido Principal -->
+  <div class="main-content">
+    
+    <h2 id="about-me">About Me</h2>
+    <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a PhD candidate in Computer Science at the University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, with the objective of enhancing security protocols and authentication systems.</p>
+
+    <h2 id="academic-background">Academic and Professional Background</h2>
+    <p>...[Contenido de la sección]...</p>
+
+    <h2 id="research-interests">Research Interests</h2>
+    <p>...[Contenido de la sección]...</p>
+
+    <h2 id="technical-skills">Technical Skills and Proficiencies</h2>
+    <p>...[Contenido de la sección]...</p>
+
+    <h2 id="vision">Vision and Future Directions</h2>
+    <p>...[Contenido de la sección]...</p>
+
+  </div>
+  
+  <!-- Menú de Contenido (Sidebar) -->
+  <aside class="sidebar">
+    <h3>Table of Contents</h3>
+    <ul>
+      <li><a href="#about-me">About Me</a></li>
+      <li><a href="#academic-background">Academic &amp; Professional Background</a></li>
+      <li><a href="#research-interests">Research Interests</a></li>
+      <li><a href="#technical-skills">Technical Skills</a></li>
+      <li><a href="#vision">Vision &amp; Future Directions</a></li>
+    </ul>
+  </aside>
+  
+  <div style="clear: both;"></div>
+</div>
+
+
 ### Research Interests
 
 My primary research interests include:
