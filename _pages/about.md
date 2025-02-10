@@ -24,7 +24,7 @@ My primary research interests include:
 
 ## Latest News
 
-{% assign news_posts = site.posts | where:"categories","news" | sort:"date" | reverse %}
+{% assign news_posts = site.posts | where:"tags","news" | sort:"date" | reverse %}
 {% if news_posts.size > 0 %}
 <ul class="news-list">
   {% for post in news_posts %}
