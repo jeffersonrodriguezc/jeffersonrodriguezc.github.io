@@ -99,7 +99,57 @@
   line-height: 1.2em;
 }
 
-/* Si deseas mostrar menos texto, puedes truncar o simplemente ocultar el excerpt.
- * Por ejemplo, comenta o elimina el excerpt si solo quieres fecha + título en la timeline.
- */
+/* Ajustes generales para la sección "About me" */
+.about-content {
+  margin-bottom: 20px;      /* Espacio inferior entre bloques */
+  font-size: 0.9em;         /* Tamaño de fuente algo menor */
+  line-height: 1.4em;       /* Reduce la separación vertical */
+}
+
+.about-content h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.about-content p {
+  margin-bottom: 10px;
+}
+
+/* Ajustes para "Research Interests" */
+.research-interests {
+  margin-bottom: 20px;      /* Espacio inferior entre secciones */
+  font-size: 0.9em;
+  line-height: 1.4em;
+}
+
+/* Listado estilo "timeline" sencillo */
+.research-interests ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;         /* Elimina viñetas por defecto */
+}
+
+.research-interests li {
+  position: relative;
+  margin-bottom: 10px;
+  padding-left: 20px;       /* Deja espacio para el “punto” */
+  border-left: 2px solid #ddd;  /* Línea vertical estilo timeline */
+}
+
+/* Círculo para cada ítem */
+.research-interests li::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 6px;
+  width: 10px;
+  height: 10px;
+  background-color: #007acc; /* Ajusta el color a tu preferencia */
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.research-interests strong {
+  color: #007acc;
+}
 
