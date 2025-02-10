@@ -20,7 +20,6 @@ Hello, I am **Jefferson Rodríguez**, a Ph.D. student in Electronic and Computer
   <li class="news-item">
     <span class="news-date">{{ post.date | date: "%b %d, %Y" }}</span>
     <a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
-    <p class="news-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
   </li>
   {% endfor %}
 </ul>
