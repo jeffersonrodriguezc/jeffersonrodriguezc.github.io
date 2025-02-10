@@ -7,19 +7,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+    
 ---
-Hello, I am **Jefferson Rodríguez**, a Ph.D. student in Electronic and Computer Engineering at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.
+<div class="about-content">
+  <h2>About Me</h2>
+  <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the PRA Lab, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.</p>
+</div>
 
----
-### Research Interests
-
-My primary research interests include:
-- **Biometrics and Digital Security:** Developing secure, resilient authentication/verification systems using state-of-the-art techniques based on biometric data.
-- **Deep Learning and Image Processing:** Applying neural networks and advanced algorithms to extract and analyze biometric features effectively.
-- **Watermarking and Steganography:** Innovating methods for embedding and concealing information within facial images to enhance data integrity and security.
-- **Fraud Detection Systems:** Designing and implementing robust systems for detecting and preventing fraudulent activities within digital environments.
-- **Model Explainability:** Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.
-
+<div class="research-interests">
+  <h3>Research Interests</h3>
+  <ul>
+    <li><strong>Biometrics and Digital Security:</strong> Developing secure, resilient authentication/verification systems using state-of-the-art techniques based on biometric data.</li>
+    <li><strong>Deep Learning and Image Processing:</strong> Applying neural networks and advanced algorithms to extract and analyze biometric features effectively.</li>
+    <li><strong>Watermarking and Steganography:</strong> Innovating methods for embedding and concealing information within facial images to enhance data integrity and security.</li>
+    <li><strong>Fraud Detection Systems:</strong> Designing and implementing robust systems for detecting and preventing fraudulent activities within digital environments.</li>
+    <li><strong>Model Explainability:</strong> Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.</li>
+  </ul>
+</div>
 
 ---
 ### Latest News
