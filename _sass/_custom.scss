@@ -39,34 +39,67 @@
   opacity: 0.25;
 }
 
+/* Contenedor general de la lista */
 .news-list {
   list-style: none;
+  margin: 0;
   padding: 0;
 }
 
+/* Cada "post" o elemento de la lista */
 .news-item {
-  margin-bottom: 20px;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 10px;
+  position: relative;
+  margin-bottom: 15px; /* menos espacio entre posts */
+  padding-left: 20px;  /* deja espacio para el punto a la izquierda */
+  border-left: 2px solid #ddd; /* línea vertical estilo timeline */
 }
 
+/* Pequeño círculo que simula un hito en la línea de tiempo */
+.news-item::before {
+  content: "";
+  position: absolute;
+  left: -6px;     
+  top: 5px;      
+  width: 10px;   
+  height: 10px;  
+  background-color: #007acc; 
+  border-radius: 50%;       
+  border: 2px solid #fff;   
+}
+
+/* Fecha más pequeña y discreta */
 .news-date {
-  font-size: 0.9em;
-  color: #555;
+  display: block;
+  font-size: 0.85em;
+  font-weight: normal;
+  color: #666;
+  margin-bottom: 2px;
 }
 
+/* Título del post */
 .news-title {
-  font-size: 1.2em;
+  font-size: 0.95em; /* más pequeño para ganar espacio */
   font-weight: bold;
   color: #007acc;
   text-decoration: none;
+  margin-bottom: 2px;
+  line-height: 1.2em; /* reduce el espacio vertical */
 }
 
+/* Hover en el título */
 .news-title:hover {
   text-decoration: underline;
 }
 
+/* Texto de resumen */
 .news-excerpt {
-  font-size: 1em;
+  font-size: 0.85em;
   color: #333;
+  margin: 0;
+  line-height: 1.2em;
 }
+
+/* Si deseas mostrar menos texto, puedes truncar o simplemente ocultar el excerpt.
+ * Por ejemplo, comenta o elimina el excerpt si solo quieres fecha + título en la timeline.
+ */
+
