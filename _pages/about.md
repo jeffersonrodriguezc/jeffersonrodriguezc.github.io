@@ -21,6 +21,26 @@ My primary research interests include:
 - **Model Explainability:** Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.
 
 ---
+
+## Latest News
+
+{% assign news_posts = site.posts | where:"categories","news" | sort:"date" | reverse %}
+{% if news_posts.size > 0 %}
+<ul class="news-list">
+  {% for post in news_posts %}
+  <li class="news-item">
+    <span class="news-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
+    <p class="news-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No news available at the moment. Please check back later.</p>
+{% endif %}
+
+
+---
 ### Academic and Professional Background
 
 <details>
