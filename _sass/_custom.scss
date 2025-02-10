@@ -99,11 +99,11 @@
   line-height: 1.2em;
 }
 
-/* Ajustes generales para la sección "About me" */
+/* Ajustes para la sección About */
 .about-content {
-  margin-bottom: 20px;      /* Espacio inferior entre bloques */
-  font-size: 0.9em;         /* Tamaño de fuente algo menor */
-  line-height: 1.4em;       /* Reduce la separación vertical */
+  margin-bottom: 20px;
+  font-size: 0.9em;       /* Reduce ligeramente el tamaño de fuente */
+  line-height: 1.4em;     /* Espaciado vertical moderado */
 }
 
 .about-content h2 {
@@ -111,45 +111,31 @@
   margin-bottom: 10px;
 }
 
-.about-content p {
-  margin-bottom: 10px;
-}
-
-/* Ajustes para "Research Interests" */
+/* Sección de Research Interests */
 .research-interests {
-  margin-bottom: 20px;      /* Espacio inferior entre secciones */
-  font-size: 0.9em;
+  margin-bottom: 20px;
+  font-size: 0.9em;       /* Reducimos un poco el tamaño para mayor compactación */
   line-height: 1.4em;
 }
 
-/* Listado estilo "timeline" sencillo */
+.research-interests h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
 .research-interests ul {
   margin: 0;
-  padding: 0;
-  list-style: none;         /* Elimina viñetas por defecto */
+  padding-left: 20px;     /* Deja espacio para las viñetas */
+  list-style-type: disc;   /* Viñetas estándar */
 }
 
 .research-interests li {
-  position: relative;
-  margin-bottom: 10px;
-  padding-left: 20px;       /* Deja espacio para el “punto” */
-  border-left: 2px solid #ddd;  /* Línea vertical estilo timeline */
-}
-
-/* Círculo para cada ítem */
-.research-interests li::before {
-  content: "";
-  position: absolute;
-  left: -7px;
-  top: 6px;
-  width: 10px;
-  height: 10px;
-  background-color: #007acc; /* Ajusta el color a tu preferencia */
-  border-radius: 50%;
-  border: 2px solid #fff;
+  margin-bottom: 6px;      /* Ajusta el espacio entre ítems */
 }
 
 .research-interests strong {
-  color: #007acc;
+  color: #007acc;          /* O el color que prefieras para resaltar */
+}
+
 }
 
