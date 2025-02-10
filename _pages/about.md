@@ -11,7 +11,7 @@ redirect_from:
 ---
 <div class="about-content">
   <h2>About Me</h2>
-  <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the [PRA Lab](https://www.saiferlab.ai/labs/pralab), University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.</p>
+  <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the <a href="https://www.saiferlab.ai/labs/pralab" target="_blank">PRA Lab</a>, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.</p>
 </div>
 
 <div class="research-interests">
