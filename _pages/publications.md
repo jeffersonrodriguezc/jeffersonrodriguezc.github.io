@@ -26,6 +26,14 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 {% endif %}
 <li>
 <a href="{{ post.link | default: post.url }}">{{ post.title }}</a>, {{ post.venue | default: "Preprint" }}.
+{% if post.abstract %}
+<p style="font-size: 0.9em; margin-top: 5px;">{{ post.abstract }}</p>
+{% endif %}
+<p style="font-size: 0.9em;">
+{% if post.link %}<a href="{{ post.link }}">Paper</a> | {% endif %}
+{% if post.quote %}<a href="{{ post.quote }}">Citation</a> | {% endif %}
+{% if post.code %} <a href="{{ post.code }}">Code</a> | {% endif %}
+</p>
 </li>
 {% endfor %}
 
