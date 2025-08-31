@@ -15,7 +15,6 @@ redirect_from:
 
 ---
 ### Latest News
-
 {% assign news_posts = site.posts | where:"tags","news" | sort:"date" | reverse %}
 {% if news_posts.size > 0 %}
 <ul class="news-list">
