@@ -13,17 +13,6 @@ redirect_from:
   <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the <a href="https://www.saiferlab.ai/labs/pralab" target="_blank">PRA Lab</a>, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.</p>
 </div>
 
-<div class="research-interests">
-  <h3>Research Interests</h3>
-  <ul>
-    <li><strong>Biometrics and Digital Security:</strong> Developing secure, resilient authentication/verification systems using state-of-the-art techniques based on biometric data.</li>
-    <li><strong>Deep Learning and Image Processing:</strong> Applying neural networks and advanced algorithms to extract and analyze biometric features effectively.</li>
-    <li><strong>Watermarking and Steganography:</strong> Innovating methods for embedding and concealing information within facial images to enhance data integrity and security.</li>
-    <li><strong>Fraud Detection Systems:</strong> Designing and implementing robust systems for detecting and preventing fraudulent activities within digital environments.</li>
-    <li><strong>Model Explainability:</strong> Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.</li>
-  </ul>
-</div>
-
 ---
 ### Latest News
 
@@ -41,6 +30,18 @@ redirect_from:
 <p>No news available at the moment. Please check back later.</p>
 {% endif %}
 <a href="{{ site.baseurl }}/all_news/" class="btn btn--primary">See all news</a>
+
+---
+<div class="research-interests">
+  <h3>Research Interests</h3>
+  <ul>
+    <li><strong>Biometrics and Digital Security:</strong> Developing secure, resilient authentication/verification systems using state-of-the-art techniques based on biometric data.</li>
+    <li><strong>Deep Learning and Image Processing:</strong> Applying neural networks and advanced algorithms to extract and analyze biometric features effectively.</li>
+    <li><strong>Watermarking and Steganography:</strong> Innovating methods for embedding and concealing information within facial images to enhance data integrity and security.</li>
+    <li><strong>Fraud Detection Systems:</strong> Designing and implementing robust systems for detecting and preventing fraudulent activities within digital environments.</li>
+    <li><strong>Model Explainability:</strong> Investigating methods to improve the interpretability and transparency of deep learning models, ensuring that complex algorithms can be understood and trusted by end users.</li>
+  </ul>
+</div>
 
 ---
 ### Publications at a glance
