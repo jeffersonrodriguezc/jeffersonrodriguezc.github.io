@@ -30,7 +30,7 @@ redirect_from:
 {% assign news_posts = site.posts | where:"tags","news" | sort:"date" | reverse %}
 {% if news_posts.size > 0 %}
 <ul class="news-list">
-  {% for post in news_posts %}
+  {% for post in news_posts limit: 6 %}
   <li class="news-item">
     <span class="news-date">{{ post.date | date: "%b %d, %Y" }}</span>
     <a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
@@ -40,6 +40,7 @@ redirect_from:
 {% else %}
 <p>No news available at the moment. Please check back later.</p>
 {% endif %}
+<a href="{{ site.baseurl }}/all_news/" class="btn btn--primary">See all news</a>
 
 ---
 ### Publications at a glance
