@@ -206,4 +206,28 @@
   line-height: 1.1em !important;
 }
 
+/* ===== Publicaciones: título vs. resto ===== */
+
+/* Título */
+.page__content .news-list .news-item h2.archive__item-title,
+.page__content .news-list .news-item h2.archive__item-title a {
+  font-size: 1em !important;       /* tamaño base para títulos */
+  font-weight: 600 !important;
+  color: #007acc !important;       /* azul */
+  margin-bottom: 2px !important;
+  line-height: 1.3em !important;
+}
+
+/* Abstract, venue y links todos un nivel más chico */
+.page__content .news-list .news-item .archive__item-excerpt,
+.page__content .news-list .news-item .archive__item-venue,
+.page__content .news-list .news-item em,
+.page__content .news-list .news-item .page__meta {
+  font-size: 0.85em !important;    /* un poco más chico que el título */
+  color: #444 !important;          /* gris discreto */
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  line-height: 1.2em !important;
+}
+
 
