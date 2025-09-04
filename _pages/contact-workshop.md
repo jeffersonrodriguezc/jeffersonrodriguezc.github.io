@@ -11,7 +11,9 @@ nav_exclude: true
   <p>Tell me about your audience and goals. Workshops can be 2–4 hours, 1 day, or 2 days; hands-on with Colab notebooks.</p>
 </div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpF_JESnhcutY_5gEKPe7sZmbKQCVgmU9wLnZ5eUXEiKVXRw/viewform?embedded=true" width="800" height="2746" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<div class="gform-embed">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpF_JESnhcutY_5gEKPe7sZmbKQCVgmU9wLnZ5eUXEiKVXRw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" loading="lazy">Cargando…</iframe>
+</div>
 
 <p class="news-excerpt" style="margin-top:10px;">
   Prefer email? <a href="mailto:jefferson.rc94@gmail.com">jefferson.rc94@gmail.com</a>
