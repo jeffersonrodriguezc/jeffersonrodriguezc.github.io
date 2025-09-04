@@ -2,7 +2,8 @@
 layout: single
 title: "Invite me to teach — Deep Learning en 3 semanas"
 permalink: /contact/invite/
-author_profile: true
+author_profile: false
+classes: wide
 nav_exclude: true
 ---
 

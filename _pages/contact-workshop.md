@@ -2,7 +2,8 @@
 layout: single
 title: "Request a workshop — AI & Deep Learning (Hands-on)"
 permalink: /contact/workshop/
-author_profile: true
+author_profile: false
+classes: wide
 nav_exclude: true
 ---
 
