@@ -260,3 +260,9 @@
 /* Opcional: compactar aún más el espacio entre ítems de la lista */
 .news-list .news-item { margin-bottom: 12px !important; }
 
+.pubs-timeline details.year-group { margin-bottom: 8px; }
+.pubs-timeline details.year-group > summary { cursor: pointer; }
+.pubs-timeline details.year-group > summary::-webkit-details-marker { display: none; }
+.pubs-timeline details.year-group > summary .archive__subtitle { display: inline-block; }
+
+
