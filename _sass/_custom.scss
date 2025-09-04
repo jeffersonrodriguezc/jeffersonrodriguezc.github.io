@@ -191,3 +191,34 @@
   font-style: italic !important;
 }
 
+/* ===== Compactar abstract, venue y links ===== */
+
+/* Abstract */
+.page__content .news-list .news-item .archive__item-excerpt {
+  font-size: 0.78em !important;   /* más pequeño */
+  color: #444 !important;
+  margin-top: 2px !important;     /* pegado al título */
+  margin-bottom: 2px !important;
+  line-height: 1.2em !important;
+}
+
+/* Venue */
+.page__content .news-list .news-item .archive__item-venue,
+.page__content .news-list .news-item em {
+  font-size: 0.78em !important;
+  color: #444 !important;
+  font-style: italic !important;
+  margin-top: 0 !important;
+  margin-bottom: 2px !important;
+  display: block;                 /* cada venue en su línea */
+  line-height: 1.2em !important;
+}
+
+/* Links (íconos PDF, cite, etc.) */
+.page__content .news-list .news-item .page__meta {
+  font-size: 0.75em !important;   /* más pequeño */
+  margin-top: 2px !important;
+  margin-bottom: 0 !important;
+  line-height: 1.1em !important;
+}
+
