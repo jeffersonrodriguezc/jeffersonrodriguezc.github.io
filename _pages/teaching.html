@@ -7,67 +7,58 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- === FEATURED / PINNED COURSE (always on top) === -->
-<h2 class="archive__subtitle">Deep Learning</h2>
-
 <div class="about-content">
-  <p><strong>I currently teach a single, hands-on course in Spanish:</strong> <em>Deep Learning en 3 semanas</em>.
-    The same program runs at Universidad Internacional del Ecuador (since 2023) and Universidad de Montevideo (since 2025).</p>
+  <p><strong>I currently teach a single, hands-on course in Spanish:</strong> <em>Deep Learning en 3 semanas</em>. The same program runs at Universidad Internacional del Ecuador (since 2023) and Universidad de Montevideo (since 2025).</p>
+</div>
 
+<p>
+  <a class="btn btn--primary" href="https://jeffersonrodriguezc.github.io/deep-learning-en-3-semanas/" target="_blank" rel="noopener">Explore the full course site</a>
+  <a class="btn" href="{{ site.baseurl }}/#contact">Invite me to teach</a>
+</p>
+
+<h2 class="archive__subtitle">Deep Learning</h2>
+<div class="about-content">
+  <p><strong>Deep Learning en 3 semanas (ES)</strong> — Intensive, project-driven training to master modern neural networks and ship a working baseline.</p>
   <ul>
-    <li><strong>Featured course:</strong> <em>Deep Learning en 3 semanas (ES)</em> — Intensive, project-driven training to master modern neural networks and ship a working baseline.</li>
     <li><strong>Quick facts:</strong> 3 weeks · 6–8 sessions · Python + TensorFlow/Keras · Colab-first · Guided project · Spanish</li>
     <li><strong>Who it’s for:</strong> Master’s/graduate students and professionals with Python + basic ML knowledge.</li>
+    <li><strong>You’ll use:</strong> Colab notebooks, slides, practice datasets, lightweight rubrics and reports.</li>
   </ul>
-
-  <p><strong>Currently offered at</strong></p>
-  <ul class="news-list">
-    <li class="news-item">
-      <span class="news-title">University of Montevideo (UM)</span>
-      <p class="news-excerpt">Master’s in Data Science — 
-        <a href="https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/" target="_blank" rel="noopener">Program page</a>
-      </p>
-    </li>
-    <li class="news-item">
-      <span class="news-title">Universidad Internacional del Ecuador (UIDE)</span>
-      <p class="news-excerpt">Maestría en Ciencia de Datos y Máquinas de Aprendizaje (mención IA) — 
-        <a href="https://www.uide.edu.ec/maestria-en-ciencia-de-datos-y-maquinas-de-aprendizaje-con-mencion-en-inteligencia-artificial/" target="_blank" rel="noopener">Program page</a>
-      </p>
-    </li>
-  </ul>
-
-  <!-- Botones en una sola línea -->
-  <p>
-    <a class="btn btn--primary" href="{{ site.baseurl }}/teaching/deep-learning-en-3-semanas/" rel="noopener">Open course page (ES)</a>
-    <a class="btn" href="{{ site.baseurl }}/#contact">Invite me to teach</a>
-    <a class="btn btn--light-outline" href="{{ site.baseurl }}/#contact">Request a workshop</a>
-  </p>
-
-  <!-- Enlace al sitio completo del curso (externo) opcional -->
-  <p class="news-excerpt">
-    Full course site (syllabus, notebooks, updates): 
-    <a href="https://jeffersonrodriguezc.github.io/deep-learning-en-3-semanas/" target="_blank" rel="noopener">Deep Learning en 3 semanas</a>
-  </p>
 </div>
+
+<h3>Currently offered at</h3>
+<ul class="news-list">
+  <li class="news-item">
+    <span class="news-title">University of Montevideo (UM)</span>
+    <p class="news-excerpt">Master’s in Data Science — 
+      <a href="https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/" target="_blank" rel="noopener">Program page</a>
+    </p>
+  </li>
+  <li class="news-item">
+    <span class="news-title">Universidad Internacional del Ecuador (UIDE)</span>
+    <p class="news-excerpt">Maestría en Ciencia de Datos y Máquinas de Aprendizaje (mención IA) — 
+      <a href="https://www.uide.edu.ec/maestria-en-ciencia-de-datos-y-maquinas-de-aprendizaje-con-mencion-en-inteligencia-artificial/" target="_blank" rel="noopener">Program page</a>
+    </p>
+  </li>
+</ul>
+
+<p>
+  <a class="btn btn--primary" href="{{ site.baseurl }}/teaching/deep-learning-en-3-semanas/" rel="noopener">Open course page (ES)</a>
+  <a class="btn" href="{{ site.baseurl }}/#contact">Invite me to teach</a>
+  <a class="btn btn--light-outline" href="{{ site.baseurl }}/#contact">Request a workshop</a>
+</p>
 
 <hr />
 
-<!-- === OTHER COURSES (auto-list, excludes the featured one) === -->
-{% assign featured_permalink = "/teaching/deep-learning-en-3-semanas/" %}
 {% assign teaching_posts = site.teaching | sort: "date" | reverse %}
-
-{% capture others %}
-  {% for post in teaching_posts %}
-    {% unless post.url == featured_permalink %}
-      <li class="news-item">{% include archive-single.html %}</li>
-    {% endunless %}
-  {% endfor %}
-{% endcapture %}
-
-{% if others contains "news-item" %}
-  <h3 class="archive__subtitle">Other courses</h3>
+{% if teaching_posts and teaching_posts.size > 0 %}
+  <h3>Past teaching</h3>
   <ul class="news-list">
-    {{ others }}
+    {% for post in teaching_posts %}
+      <li class="news-item">
+        {% include archive-single.html %}
+      </li>
+    {% endfor %}
   </ul>
 {% endif %}
 
