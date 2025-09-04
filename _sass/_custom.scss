@@ -158,3 +158,36 @@
   color: #666;
 }
 
+/* ===== Overrides para publicaciones en la lista timeline ===== */
+
+/* Título y su enlace dentro de archive-single.html */
+.page__content .news-list .news-item h2.archive__item-title,
+.page__content .news-list .news-item h2.archive__item-title a {
+  font-size: 0.95em !important;
+  font-weight: 600 !important;
+  color: #007acc !important;        /* azul */
+  line-height: 1.3em !important;
+  margin-bottom: 2px !important;
+  text-decoration: none !important;
+}
+
+.page__content .news-list .news-item h2.archive__item-title a:hover {
+  text-decoration: underline !important;
+}
+
+/* Abstract / excerpt */
+.page__content .news-list .news-item .archive__item-excerpt {
+  font-size: 0.85em !important;
+  color: #444 !important;            /* gris */
+  line-height: 1.4em !important;
+  margin-top: 4px !important;
+}
+
+/* Venue (varía por plantilla: a veces viene en <em>, otras en una clase) */
+.page__content .news-list .news-item .archive__item-venue,
+.page__content .news-list .news-item em {
+  font-size: 0.85em !important;
+  color: #666 !important;
+  font-style: italic !important;
+}
+
