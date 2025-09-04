@@ -31,8 +31,8 @@ Notebooks de Colab, diapositivas, datasets de práctica y reales, rúbrica de pr
 3 labs y test + mini-proyecto final por equipos.
 
 **Dónde se dicta**  
-- [**Universidad de Montevideo (UM)** — Maestría en Ciencia de Datos:](https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/)  
-- [**Universidad Internacional del Ecuador (UIDE)** — Maestría en Ciencia de Datos y Máquinas de Aprendizaje (mención IA):](https://www.uide.edu.ec/maestria-en-ciencia-de-datos-y-maquinas-de-aprendizaje-con-mencion-en-inteligencia-artificial/)
+- [**Universidad de Montevideo (UM)** — Maestría en Ciencia de Datos](https://umpe.um.edu.uy/index.php/portfolio/maestria-en-ciencia-de-datos/)  
+- [**Universidad Internacional del Ecuador (UIDE)** — Maestría en Ciencia de Datos y Máquinas de Aprendizaje (mención IA)](https://www.uide.edu.ec/maestria-en-ciencia-de-datos-y-maquinas-de-aprendizaje-con-mencion-en-inteligencia-artificial/)
 
 **Resultados esperados**  
 - Repositorio funcional, **experimentos comparables** y **reporte reproducible**.  
@@ -40,5 +40,5 @@ Notebooks de Colab, diapositivas, datasets de práctica y reales, rúbrica de pr
 
 <p>
   <a class="btn btn--primary" href="https://jeffersonrodriguezc.github.io/deep-learning-en-3-semanas/" target="_blank">Explorar sitio del curso</a>
-  <a class="btn" href="{{ site.baseurl }}/#contact">Invitar a mi institución</a>
+  <a class="btn" href="{{ site.baseurl }}/contact/invite/">Invitar a mi institución</a>
 </p>
