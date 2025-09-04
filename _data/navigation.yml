@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/ 
+  #- title: "Projects"
+  #  url: /projects/ 
 
   - title: "Teaching"
     url: /teaching/ 
     
-  - title: "Certificates"
-    url: /certificates/
+  #- title: "Certificates"
+  #  url: /certificates/
     
   - title: "CV"
     url: /cv/

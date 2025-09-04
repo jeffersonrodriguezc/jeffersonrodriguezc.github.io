@@ -32,7 +32,5 @@ author_profile: true
   {% endfor %}
 </div>
 
-<sup>*</sup> Equal authorship statement
-
 
 
