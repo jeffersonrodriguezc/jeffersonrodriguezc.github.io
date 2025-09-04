@@ -10,7 +10,8 @@ redirect_from:
     
 ---
 <div class="about-content">
-  <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the <a href="https://www.saiferlab.ai/labs/pralab" target="_blank">PRA Lab</a>, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection.</p>
+  <p>Hello, I am <strong>Jefferson Rodríguez</strong>, a Ph.D. student in Electronic and Computer Engineering at the <a href="https://www.saiferlab.ai/labs/pralab" target="_blank">PRA Lab</a>, University of Cagliari, Italy. My research focuses on the development of advanced deep learning methodologies applied to biometrics and digital security. I am currently engaged in an innovative doctoral project that investigates the integration of watermarking and steganography techniques for facial images, aiming to improve secure facial image verification, authentication and proactive Deepfake detection. In addition, I teach <a href="/teaching/" target="_blank">practical and intensive Deep Learning courses</a> at the Universidad Internacional del Ecuador (UIDE) and the Universidad de Montevideo (UM).
+</p>
 </div>
 
 ---
@@ -48,8 +49,8 @@ redirect_from:
 <details>
 <summary><strong>Cybersecurity publications</strong></summary>
 <ul>
-  <li><font size="3">Currently working on Steganography & Watermarking ... </font></li>
-  <li><font size="3">Currently working on Behavioral biometrics ... </font></li>
+  <li><font size="3">Deep Data Hiding for ICAO-Compliant Face Images: A Survey, IJCB, 2025.</font></li>
+  <li><font size="3">Fragile Watermarking for Image Certification Using Deep Steganographic Embedding, IJCNN, 2025.</font></li>
 </ul> 
 </details>
 
