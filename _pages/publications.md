@@ -18,12 +18,16 @@ author_profile: true
 {% assign pubs_by_year = pubs_sorted | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year_group in pubs_by_year %}
-  <h2 class="archive__subtitle">{{ year_group.name }}</h2>
-
-  {% for post in year_group.items %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <h2 id="y{{ year_group.name }}" class="archive__subtitle">{{ year_group.name }}</h2>
+  <ul class="news-list">
+    {% for post in year_group.items %}
+      <li class="news-item">
+        {% include archive-single.html %}
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
 
 <sup>*</sup> Equal authorship statement
+
 
