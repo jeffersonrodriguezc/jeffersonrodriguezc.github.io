@@ -137,4 +137,24 @@
   color: #007acc;          /* O el color que prefieras para resaltar */
 }
 
+/* Ajustes de tipografía para publicaciones */
+.news-list .news-item .archive__item-title {
+  font-size: 0.95em;      /* más pequeño que el default */
+  font-weight: bold;
+  color: #007acc;         /* mismo azul de los puntos */
+  line-height: 1.3em;
+  margin-bottom: 2px;
+}
+
+.news-list .news-item .archive__item-excerpt {
+  font-size: 0.85em;      /* más pequeño para el abstract */
+  color: #444;            /* gris oscuro en vez de negro */
+  line-height: 1.4em;
+}
+
+.news-list .news-item .archive__item-venue {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #666;
+}
 
