@@ -230,4 +230,33 @@
   line-height: 1.2em !important;
 }
 
+/* ===== FINAL OVERRIDES — Publications timeline ===== */
+
+/* Título (h2 u h3, con o sin enlace) */
+.page__content .news-list .news-item h2.archive__item-title,
+.page__content .news-list .news-item h2.archive__item-title a,
+.page__content .news-list .news-item h3.archive__item-title,
+.page__content .news-list .news-item h3.archive__item-title a {
+  font-size: 0.95em !important;   /* un poco más grande que el resto */
+  font-weight: 600 !important;
+  color: #007acc !important;
+  line-height: 1.2em !important;
+  margin-bottom: 2px !important;
+  text-decoration: none !important;
+}
+
+/* “Abstract”, el texto del abstract, el venue y los links — todos más pequeños y juntos */
+.page__content .news-list .news-item details summary,
+.page__content .news-list .news-item .archive__item-excerpt,
+.page__content .news-list .news-item em,
+.page__content .news-list .news-item .page__meta {
+  font-size: 0.78em !important;   /* claramente más pequeño que el título */
+  color: #444 !important;
+  line-height: 1.15em !important;
+  margin-top: 2px !important;      /* pegados al título */
+  margin-bottom: 0 !important;
+}
+
+/* Opcional: compactar aún más el espacio entre ítems de la lista */
+.news-list .news-item { margin-bottom: 12px !important; }
 
