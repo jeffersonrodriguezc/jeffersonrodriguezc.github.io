@@ -51,6 +51,7 @@ redirect_from:
 <ul>
   <li><font size="3">Deep Data Hiding for ICAO-Compliant Face Images: A Survey, IJCB, 2025.</font></li>
   <li><font size="3">Fragile Watermarking for Image Certification Using Deep Steganographic Embedding, IJCNN, 2025.</font></li>
+  <li><font size="3">A Valid Watermark Is Not a Valid Identity: Spatial-Spectral Adversarial Face Evasion with Watermark Preservation, IJCB, 2026.</li>
 </ul> 
 </details>
 
